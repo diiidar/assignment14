@@ -1,5 +1,8 @@
 # game-board
 
+Student Name: Tulegen Didar
+Student ID: 220107102
+
 ## Project setup
 ```
 npm install
